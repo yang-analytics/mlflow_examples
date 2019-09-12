@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/0157a4f626f84013bba88368624767be/artifacts
+end_time: 1568300667234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0157a4f626f84013bba88368624767be
+run_uuid: 0157a4f626f84013bba88368624767be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1568300667177
+status: 4
+tags: []
+user_id: yaozhao
